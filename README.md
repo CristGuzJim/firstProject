@@ -1,2 +1,3 @@
 # firstProject
--This is my firstProject
+-This is my first gitHub project
+
